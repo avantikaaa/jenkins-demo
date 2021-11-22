@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+def successor(n):
+    return (n+1)
+
 def addition(n1, n2):
     return (n1 + n2)
 
